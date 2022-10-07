@@ -1,3 +1,4 @@
 # Image-segemtation-based-k-means-clustering
-for RGB, TIF,etc.
+For RGB, TIF,etc.
 Matlab version.
+Today, academia does not provide a specific definition of clustering. Currently, the most widely accepted view is that clustering is an unsupervised means of classification. Unlabeled data sets can be classified by a similarity measure set in clustering analysis, forming multiple class clusters to meet the analytical needs of the experiment. In 1974, Everitt gave a basic definition of clustering: Based on any similarity criterion, the sample data of the same class of clusters have similarity properties, and the sample data of different classes of clusters are not similar. The similarity criterion is determined by the practical effect required for the study. Class clusters refer to aggregating similar sample points in a data set. Clustering requires that the points in the same class cluster are relatively dense and that the minimum distance between points in different class clusters is greater than the distance between any two points in the same class cluster.
